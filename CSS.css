@@ -1,0 +1,38 @@
+.nav li {
+	display: inline-block;
+	font-size: 32px;
+	color:yellow;
+	padding: 29px;
+	border-right:2px solid white;
+	border-bottom:2px solid white;
+}
+.nav li:hover {
+	background-color:black;
+}
+.nav {
+	background-color:#cdba88;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	width: 1000px;
+	height: 100px;
+}
+.div1 {
+	opacity: 1.0;
+	position: relative;
+	margin: 20, 20, 20, 20;
+}
+p {
+	color:red;
+	font-size: 15px;
+	font-family: arial;
+}
+h1 {
+	color:#26466D;
+}
+body {
+	background-image: url('piano3.jpg');
+	background-size:180px;
+	padding: 50px;
+}
